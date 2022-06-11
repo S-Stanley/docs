@@ -61,11 +61,13 @@
 - [C Standard Library](https://en.wikipedia.org/wiki/C_standard_library)
 - [C Standard Library functions](https://www.ibm.com/docs/en/i/7.4?topic=extensions-standard-c-library-functions-table-by-name)
 - [C unistd.h](https://en.wikipedia.org/wiki/Unistd.h)
+- [Ruby](https://www.ruby-lang.org/fr/documentation/)
 
 ## Frameworks
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Express](https://expressjs.com/fr/)
+- [Ruby on Rails](https://guides.rubyonrails.org/)
 
 ## Storage
 
