@@ -81,3 +81,4 @@
 - [Github](https://docs.github.com/en)
 - [GitLab](https://docs.gitlab.com/)
 - [Vim](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
+- [nginx](https://nginx.org/en/docs/)
