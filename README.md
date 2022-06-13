@@ -24,6 +24,7 @@
 - [Create React App](https://create-react-app.dev/docs/getting-started)
 - [Flutter](https://docs.flutter.dev/)
 - [React Navigation](https://reactnavigation.org/docs/getting-started/)
+- [React-docs](https://beta-reactjs-org-git-effects-fbopensource.vercel.app/learn/installation)
 
 ## IDE
 
