@@ -79,6 +79,9 @@
 - [RedHat Ressource management guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/resource_management_guide/index)
 - [Debian](https://www.debian.org/doc/manuals/maint-guide/index.fr.html)
 
+## NPM Library
+- [React Hook Form](https://react-hook-form.com/)
+
 ## Others
 
 - [Github](https://docs.github.com/en)
