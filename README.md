@@ -17,6 +17,7 @@
 - [PostGraphile](https://www.graphile.org/postgraphile/introduction/)
 - [GraphQL](https://graphql.org/code/#javascript)
 - [Apollo](https://www.apollographql.com/docs/react/)
+- [Redis](https://redis.io/docs/)
 
 ## Mobile dev
 
