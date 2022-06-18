@@ -71,6 +71,11 @@
 - [Express](https://expressjs.com/fr/)
 - [Ruby on Rails](https://guides.rubyonrails.org/)
 
+## Data
+
+- [Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html)
+- [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/usage.html)
+
 ## Storage
 
 - [Cloudinary](https://cloudinary.com/documentation)
