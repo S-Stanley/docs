@@ -8,6 +8,9 @@
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
 - [Redux](https://redux.js.org/introduction/getting-started)
+- [Node-cache (npm)](https://www.npmjs.com/package/node-cache)
+- [HTTP Caching](https://developer.mozilla.org/fr/docs/Web/HTTP/Caching)
+- [ECMA](https://262.ecma-international.org/12.0/)
 
 ## Database
 
@@ -49,6 +52,10 @@
 
 - [Jest](https://jestjs.io/fr/docs/getting-started)
 - [Testing (article)](https://www.digitalocean.com/community/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+
+## CI/CD
+
+- [Gitlab Doc](https://docs.gitlab.com/ee/ci/)
 
 ## Infra
 
@@ -98,6 +105,8 @@
 
 - [RedHat Ressource management guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/resource_management_guide/index)
 - [Debian](https://www.debian.org/doc/manuals/maint-guide/index.fr.html)
+- [Shell command](https://www.gnu.org/software/software.html)
+- [Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 ## NPM Library
 - [React Hook Form](https://react-hook-form.com/)
@@ -108,7 +117,7 @@
 
 ## WWW
 - [Internet](https://en.wikipedia.org/wiki/Internet)
-- [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- HTTP [wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) / [mozzila.org](https://developer.mozilla.org/fr/docs/Web/HTTP)
 - [Internet Protocol Suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 - [Computer Network](https://en.wikipedia.org/wiki/Computer_network)
 
