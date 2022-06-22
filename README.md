@@ -23,6 +23,7 @@
 - [Apollo](https://www.apollographql.com/docs/react/)
 - [Redis](https://redis.io/docs/)
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/20/intro.html)
+- [SQLite](https://www.sqlite.org/docs.html)
 
 ## Mobile dev
 
