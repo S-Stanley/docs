@@ -2,7 +2,7 @@
 
 ## Web
 
-- [Typescript](https://www.typescriptlang.org/docs/)
+- [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [React](https://fr.reactjs.org/docs/getting-started.html)
 - [SolidJS](https://www.solidjs.com/guides/getting-started)
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
