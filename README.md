@@ -11,6 +11,8 @@
 - [Node-cache (npm)](https://www.npmjs.com/package/node-cache)
 - [HTTP Caching](https://developer.mozilla.org/fr/docs/Web/HTTP/Caching)
 - [ECMA](https://262.ecma-international.org/12.0/)
+- [Svelte](https://svelte.dev/tutorial/basics)
+- [Vue](https://vuejs.org/guide/introduction.html)
 
 ## Database
 
