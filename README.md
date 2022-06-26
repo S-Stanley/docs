@@ -79,6 +79,8 @@
 - [C unistd.h](https://en.wikipedia.org/wiki/Unistd.h)
 - [Ruby](https://www.ruby-lang.org/fr/documentation/)
 - [Deno](https://deno.land/manual/introduction)
+- [Rust](https://doc.rust-lang.org/book/title-page.html)
+- [Java](https://dev.java/learn/getting-started-with-java/)
 
 ## SMTP
 - [SMTP](https://fr.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
@@ -109,8 +111,12 @@
 - [Shell command](https://www.gnu.org/software/software.html)
 - [Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
-## NPM Library
+## React Ecosystem
 - [React Hook Form](https://react-hook-form.com/)
+
+## Node Ecosystem
+- [Yarn](https://yarnpkg.com/cli/install)
+- [Npm](https://docs.npmjs.com/cli/v8/commands)
 
 ## UI
 
