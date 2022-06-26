@@ -113,6 +113,7 @@
 
 ## React Ecosystem
 - [React Hook Form](https://react-hook-form.com/)
+- [Axios](https://axios-http.com/fr/docs/intro)
 
 ## Node Ecosystem
 - [Yarn](https://yarnpkg.com/cli/install)
