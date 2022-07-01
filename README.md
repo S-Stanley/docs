@@ -124,6 +124,7 @@
 - [Yarn](https://yarnpkg.com/cli/install)
 - [Npm](https://docs.npmjs.com/cli/v8/commands)
 - [Lerna](https://lerna.js.org/docs/introduction)
+- [pNPM](https://pnpm.io/fr/motivation)
 
 ## UI
 
