@@ -46,6 +46,8 @@
 ## Docker
 
 - [Docker](https://docs.docker.com/get-started/overview/)
+- [Demystifying Containers - Kernel Space](https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504)
+- [Best practices for using Docker Hub for CI/CD](https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/)
 
 ## Git
 
@@ -74,6 +76,10 @@
 
 ## Programming Language
 
+### Ruby
+- [Official documentation](https://www.ruby-lang.org/fr/documentation/)
+- [Introduction to ruby FR](https://zestedesavoir.com/tutoriels/634/une-introduction-a-ruby/)
+
 - [Python](https://docs.python.org/3.11/)
 - [Go](https://go.dev/doc/)
 - Node.js [doc](https://nodejs.org/docs/latest-v17.x/api/) / [Wikipedia](https://en.wikipedia.org/wiki/Node.js)
@@ -81,7 +87,6 @@
 - [C Standard Library](https://en.wikipedia.org/wiki/C_standard_library)
 - [C Standard Library functions](https://www.ibm.com/docs/en/i/7.4?topic=extensions-standard-c-library-functions-table-by-name)
 - [C unistd.h](https://en.wikipedia.org/wiki/Unistd.h)
-- [Ruby](https://www.ruby-lang.org/fr/documentation/)
 - [Deno](https://deno.land/manual/introduction)
 - [Rust](https://doc.rust-lang.org/book/title-page.html)
 - [Java](https://dev.java/learn/getting-started-with-java/)
