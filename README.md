@@ -157,3 +157,4 @@
 - [Nginx](https://nginx.org/en/docs/)
 - [Traefik](https://doc.traefik.io/traefik/)
 - [Phoenix framework](https://hexdocs.pm/phoenix/up_and_running.html)
+- [The twelve-factor app](https://12factor.net/)
