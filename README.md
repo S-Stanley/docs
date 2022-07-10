@@ -122,6 +122,7 @@
 - [Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 - [Debian manual](https://debian-handbook.info/browse/fr-FR/stable/)
 - [Ubuntu](https://doc.ubuntu-fr.org/)
+- [Kernel Linux](https://www.kernel.org/doc/html/latest/)
 
 ## React Ecosystem
 - [React Hook Form](https://react-hook-form.com/)
